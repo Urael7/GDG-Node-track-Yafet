@@ -1,0 +1,29 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "week3.js",
+  "scripts": {
+    "start": "node week3.js",
+    "dev": "nodemon week3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Urael7/GDG-Node-track-Yafet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Urael7/GDG-Node-track-Yafet/issues"
+  },
+  "homepage": "https://github.com/Urael7/GDG-Node-track-Yafet#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
